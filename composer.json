@@ -16,7 +16,7 @@
         "ext-json": "*",
         "ext-simplexml": "*",
         "ck/file_marc_reference": "^1.2",
-        "pear/file_marc": "dev-main"
+        "pear/file_marc": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0 | ^9.0",
